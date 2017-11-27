@@ -1,0 +1,28 @@
+[2017-08-17 11:59:02.440][INF] The COM:Core ver is 5.2.7.4, 2017_06_06. Async:1.
+[2017-08-17 11:59:02.440][INF] This hcnetsdk ver is 5.2.7.4 Ver 2017_06_06.
+[2017-08-17 11:59:02.440][INF] login dev 192.168.1.64:8000.
+[2017-08-17 11:59:02.883][INF] Private connect 192.168.1.64:8000 sock=36 this=0x7950f014 cmd=0x10000 port=47670
+[2017-08-17 11:59:02.883][INF] LogonDev1 in[192.168.1.64:8000]
+[2017-08-17 11:59:06.286][INF] login dev 192.168.1.64:8000.
+[2017-08-17 11:59:06.288][INF] Private connect 192.168.1.64:8000 sock=36 this=0x7950f014 cmd=0x10000 port=47672
+[2017-08-17 11:59:06.288][INF] LogonDev1 in[192.168.1.64:8000]
+[2017-08-17 11:59:06.369][ERR] CCoreGlobalCtrl::GetComPath err!! strlen(m_szComPath) = 0
+[2017-08-17 11:59:06.369][ERR] GetCoreGlobalCtrl()->GetComPath(pPath) err!!
+[2017-08-17 11:59:06.370][DBG] load[.//HCNetSDKCom/libHCPreview.so] succ
+[2017-08-17 11:59:06.370][INF] AbilityAnalyze---Init-- start
+[2017-08-17 11:59:06.586][DBG] AbilityAnalyze---Init-- over, DeviceList path [/home/keetsky/Desktop/HikMeaDis/lib/HCNetSDKCom/LocalXml/DeviceList.xml], load result[0]
+[2017-08-17 11:59:06.586][INF] The COM:Preview ver is 5.2.7.4, 2017_06_06.
+[2017-08-17 11:59:06.587][INF] Private connect 192.168.1.64:8000 sock=36 this=0x7950f014 cmd=0x30009 port=47674
+[2017-08-17 11:59:07.033][INF] Private connect 192.168.1.64:8000 sock=36 this=0x7950f014 cmd=0x10100 port=47676
+[2017-08-17 11:59:12.489][INF] ID-IP-CHAN[0-192.168.1.64-2] [CPreviewSession::AdjustProtoType] StreamMode[0], StreamProtocol[0xffff]
+[2017-08-17 11:59:12.717][DBG] ID-IP-CHAN[0-192.168.1.64-2] [CPreviewSession::Start] SUCC
+[2017-08-17 11:59:12.718][INF] Private connect 192.168.1.64:8000 sock=36 this=0x7950f014 cmd=0x30000 port=47678
+[2017-08-17 11:59:12.720][INF] StopSendThread threadHandle:ffffffff
+[2017-08-17 11:59:12.725][ERR] ID-IP-CHAN[0-192.168.1.64-2] [CGetTCPStream::LinkToDvr] struOut.dwDevState[15] CommandThread callback exception
+[2017-08-17 11:59:12.725][DBG] ID-IP-CHAN[0-192.168.1.64-2] [CPreviewSession::AllResourceStarWorkThread] user id[0] CommandThread callback exception
+[2017-08-17 11:59:17.717][INF] CTransUnitMgr::UnloadTransUnitLib
+[2017-08-17 11:59:17.717][INF] ID-IP-CHAN[0-192.168.1.64-2] [CPreviewSession::Stop]
+[2017-08-17 11:59:17.721][INF] Private connect 192.168.1.64:8000 sock=36 this=0x7950f014 cmd=0x10100 port=47680
+[2017-08-17 11:59:17.954][ERR] CEzvizTrans::UnloadSSLLib failed
+[2017-08-17 11:59:17.955][INF] CSSLTrans::UnloadSSLLib, Lib Not Load
+[2017-08-17 11:59:17.955][INF] Libiconv, Lib Not Load.

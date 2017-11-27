@@ -1,0 +1,13 @@
+[2017-08-17 11:57:47.511][INF] The COM:Core ver is 5.2.7.4, 2017_06_06. Async:1.
+[2017-08-17 11:57:47.511][INF] This hcnetsdk ver is 5.2.7.4 Ver 2017_06_06.
+[2017-08-17 11:57:47.511][INF] login dev 192.168.1.64:8000.
+[2017-08-17 11:57:47.948][INF] Private connect 192.168.1.64:8000 sock=36 this=0x9103014 cmd=0x10000 port=47654
+[2017-08-17 11:57:47.948][INF] LogonDev1 in[192.168.1.64:8000]
+[2017-08-17 11:57:54.686][INF] login dev 192.168.1.64:8000.
+[2017-08-17 11:57:54.687][INF] Private connect 192.168.1.64:8000 sock=36 this=0x9103014 cmd=0x10000 port=47656
+[2017-08-17 11:57:54.687][INF] LogonDev1 in[192.168.1.64:8000]
+[2017-08-17 11:57:54.831][ERR] CCoreGlobalCtrl::GetComPath err!! strlen(m_szComPath) = 0
+[2017-08-17 11:57:54.831][ERR] GetCoreGlobalCtrl()->GetComPath(pPath) err!!
+[2017-08-17 11:57:54.831][ERR] load[.//HCNetSDKCom/libHCPreview.so] failed
+[2017-08-17 11:57:54.831][ERR] Load COM:libHCPreview.so fail.
+[2017-08-17 11:57:54.831][ERR] Load and Init Com Error, ErroCode:[107]
